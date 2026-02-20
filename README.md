@@ -182,9 +182,9 @@ These projects demonstrate skills applicable to:
 
 ## 📞 Contact
 
-**LinkedIn:** [Your LinkedIn Profile]  
-**Email:** your.email@example.com  
-**GitHub:** [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+**LinkedIn:** https://www.linkedin.com/in/preethi-r-06a774257/  
+**Email:** preethir866@gmail.com  
+**GitHub:** https://github.com/PREETHI-R27/
 
 ## 📄 License
 
