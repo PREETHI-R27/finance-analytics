@@ -19,22 +19,58 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv
 
 # Jupyter Notebook
 .ipynb_checkpoints
-*/.ipynb_checkpoints/*
+*.ipynb
 
-# Data
-data/*
-!data/.gitkeep
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
 
-# Environments
+# Data files (large datasets)
+*.csv
+*.xlsx
+*.xls
+*.db
+*.sqlite
+*.h5
+*.pkl
+*.pickle
+
+# Output files
+outputs/
+results/
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.html
+
+# Logs
+*.log
+logs/
+
+# Environment variables
 .env
-.venv
-env/
-venv/
-ENV/
+.env.local
 
 # OS
-.DS_Store
 Thumbs.db
+.DS_Store
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~.nib
